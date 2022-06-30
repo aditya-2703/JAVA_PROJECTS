@@ -1,7 +1,7 @@
 # JAVA_PROJECTS
 This repository contains the Prjects which uses java as programming language. This project can be gui app , modules and command line based programms.
 <p align="center">
-<img src="" >
+<img src="poster.png" >
 </p>
 
 
